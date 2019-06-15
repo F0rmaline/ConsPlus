@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="newP">
+    <file>info.png</file>
+    <file>Chh.png</file>
+    <file>pddf.png</file>
+    <file>exx.png</file>
+    <file>Результат.png</file>
+    <file>вв3.png</file>
+    <file>критерии.png</file>
+    <file>Введите информацию (69).png</file>
+    <file>Введите22.png</file>
+    <file>Введите информацию (68).png</file>
+    <file>Введите информацию (56).png</file>
+    <file>Введите информацию (55).png</file>
+    <file>Введите информацию (54).png</file>
+    <file>Введите информацию (53).png</file>
+    <file>Введите информацию (52).png</file>
+    <file>cat.png</file>
+    <file>1.png</file>
+    <file>y1.png</file>
+    <file>r1.png</file>
+    <file>g1.png</file>
+  </qresource>
+</RCC>
